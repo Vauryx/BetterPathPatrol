@@ -17,9 +17,9 @@
     "dependencies": [],
     "conflicts": [],
     "esmodules": [],
-    "scripts": [
-        "/scripts/patroller.js",
-        "/scripts/config.js"
+    "scripts": ["./scripts/patroller.js",
+        "./scripts/config.js",
+        "./scripts/helpers.js"
     ],
     "styles": [
         "scripts/foundry-menu.css"
